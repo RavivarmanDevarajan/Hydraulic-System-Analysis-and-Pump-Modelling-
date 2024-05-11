@@ -1,0 +1,6 @@
+Visualization and Analysis of Healthy and Faulty Conditions in a Hydraulic System 
+
+1.Leveraged Python (utilizing Pandas, NumPy, Matplotlib, and Seaborn) to conduct a comprehensive visualization and analysis of healthy and faulty conditions in a hydraulic system. 
+2.Employed exploratory data analysis techniques to analyze real-time healthy and simulated fault data for various fault conditions (Clogged filter, Degraded Pump, Stuck Valve, Leaking Pipe and Clogged Nozzle).
+3. I was provided with 6 to 8 ".lvm" files for each of the healthy and five different faulty conditions (around 46 ".lvm" files in total)
+4. Each file has around 60,000 data points.
