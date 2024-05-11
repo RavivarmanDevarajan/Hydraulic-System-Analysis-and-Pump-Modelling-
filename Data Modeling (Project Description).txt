@@ -1,0 +1,5 @@
+Construction of the Pump Model 
+
+1.Utilized Python (including TensorFlow, scikit-learn, and Keras) to develop a neural network model for predicting the flow rate of an external gear pump in a hydraulic system. 
+2.Leveraged essential input features such as pressure rise and rotational speed to construct an accurate predictive model to predict the flow rate of the pump.
+3. I was provided with real time pump test data conducted at 6 different speeds (RPM), which consists of 6 ".lvm" files each file provides the pump data under different RPM.
